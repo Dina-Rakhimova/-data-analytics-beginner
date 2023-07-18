@@ -45,4 +45,4 @@
 Сезонность оплат уроков наблюдается в течение недели. Пиковые дни среда, четверг. Меньше всего оплат в выходные дни.
 
 Ссылка на файл: https://github.com/Dina-Rakhimova/-data-analytics-beginner/blob/main/Курсовая%20SQL%20решение.docx
-Ссылка на скриншот: 
+Ссылка на скриншот: https://github.com/Dina-Rakhimova/-data-analytics-beginner/blob/main/Скриншот%20проекта%20по%20SQL.docx
